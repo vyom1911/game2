@@ -1,0 +1,23 @@
+Definition of Game Object - Created Player, Zombies, Arrow and still Background Image.
+
+Animation of Game Objects Sprite Sheet - Used Spiteseet hero.png for Player, zombies.png for zombies. Created the sprites from online sprite sheet maker. Created Arrow.png spritesheet for arrows and created the sprite using photoshop.
+
+Interaction between Game Objects - Arrow collide with Zombies and both the entities disappear. When player collides with zombie,its HP decreases. 
+
+Keeping Score (or some objective, reach destination)	-  The score is displayed on the upper right corner of the game screen and it is the number of zombies killed.
+
+Complexity (Fixing poing is the baseline) - The game is much more complex then pong.
+
+Overall look & feel	- The game looks quite good and is fun to play. 
+
+Effectiveness of personal twist.	-    Not much of a personal twist as the game is not any classic arcade game but a complete different game, the only twist is that player can control arrow even after shooting
+
+Documentation	Readme file describe here how you fulfilled each of the rubrics). - Created Document and Readme file
+
+Gallery Link to game. 5pts - https://vyomshrivastava.github.io/gaminggallery/ sent in mail to professor and TA.
+
+Commented code 5 pts	- Added comments throught the game
+
+Demo / Gallery/You Tube	Prepared Demo (5 pts) Assessed via inclass check.
+
+You tube video (5pts) - Created youtube video.
